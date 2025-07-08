@@ -1,7 +1,2 @@
-def print_text(text):
-    print(text)
-    print(text)
-    print(text)
-    print(text)
-    print(text)
-    print(text)
+def summ(a, b):
+    print(a + b)
